@@ -18,6 +18,9 @@ Detected drivable road using DRDBNN (Dimensionality reduction deep belief neural
 
 # References
 [Wheelchair Robot Navigation in Different Weather Conditions Using Deep learning and Evolved Neural Controller](https://www.emerald.com/insight/content/doi/10.1108/IR-08-2018-0176/full/html)
+
 [Road area detection method based on DBNN for robot navigation using single camera in outdoor environments](https://www.researchgate.net/publication/322215278_Road_area_detection_method_based_on_DBNN_for_robot_navigation_using_single_camera_in_outdoor_environments)
+
 [Fast Road Detection Methods on a Large Scale Dataset for Assisting Robot Navigation Using Kernel Principal Component Analysis and Deep Learning](https://ieeexplore.ieee.org/document/8492578)
+
 [Development of robot navigation method based on single camera vision using deep learning](https://ieeexplore.ieee.org/abstract/document/8105675)
